@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more about APIs and development
 - 👯 I’m looking for a good internship
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: quality contribution to open source
 - ⚡ Fun fact: I love photography
 
 
