@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning more about APIs and development
 - 👯 I’m looking for a good internship
-- 🥅 2023 Goals: quality contribution to open source
+- 🥅 2024 Goals: quality contribution to open source
 - ⚡ Fun fact: I love photography
 
 
