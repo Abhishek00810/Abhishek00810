@@ -12,45 +12,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-- JavaScript (ES6+), TypeScript
-- Python, Java
-- SQL
-
-**Frontend**
-- React.js, Next.js
-- HTML5, CSS3, Tailwind
-- Canvas / Visual Simulations
-
-**Backend**
-- Node.js, Express.js
-- Flask, Spring Boot
-- REST APIs, WebSockets
-
-**Databases & Infra**
-- MongoDB, PostgreSQL
-- Redis
-- Docker
-- AWS (Cloud Practitioner level)
-
-**Data & AI**
-- PySpark, Hadoop, YARN
-- NLP basics, ML algorithms
-- K-Means, Q-Learning, Genetic Algorithms
-
----
-
-### 🔥 What I Like Building
-- ⚙️ **Algorithm visualizations** (ACO, RL, simulations)
-- 📊 **Real-time dashboards & analytics**
-- 🤖 **AI-powered tools** (resume parsers, intelligent agents)
-- 🌍 **Scalable backend systems**
-- 🕸️ **Web3 infra & auth experiments**
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekdadwal&show_icons=true&theme=tokyonight" height="165"/>
