@@ -1,1 +1,1 @@
-<p>hi there,</p>
+Hi!
