@@ -28,4 +28,3 @@ More at **[abhid.me/writings](https://abhid.me/writings)**
 [abhid.me](https://abhid.me) · [Writing](https://abhid.me/writings) · [X](https://x.com/AbhishekDadwa16) · [LinkedIn](https://www.linkedin.com/in/abhishek-dadwal-5565781b6/)
 
 <sub>the sandbox is untrusted by construction, so every control lives one level outside it.</sub>
- 
